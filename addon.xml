@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.linux.nm1"
+       name="NM1 (Network Manager)"
+       version="1.0.2"
+       provider-name="cbxbiker61">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <platform>linux</platform>
+    <summary lang="en">Xbmc Network-Manager front-end. Configures wifi from within xbmc.</summary>
+    <description lang="en">Xbmc Network-Manager front-end. Configures wifi from within xbmc. Requires Network-Manager 0.9.</description>
+  </extension>
+</addon>
