@@ -1,3 +1,7 @@
+[B]Version 1.0.3[/B]
+Wrong script.linux.nm1-add.xml reference in gui.py
+changed to script_linux_nm1-add.xml.
+
 [B]Version 1.0.2[/B]
 Update plugin name/version.
 

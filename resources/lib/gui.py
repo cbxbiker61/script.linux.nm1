@@ -169,7 +169,7 @@ class GUI(xbmcgui.WindowXMLDialog):
         #Add connection button
         elif controlId == self.control_add_connection_button_id:
             import addConnection
-            addConnectionUI = addConnection.GUI("script.linux.nm1-add.xml", __cwd__, "default")
+            addConnectionUI = addConnection.GUI("script_linux_nm1-add.xml", __cwd__, "default")
             self.close()
             del addConnectionUI
 

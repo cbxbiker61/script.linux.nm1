@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.linux.nm1"
        name="NM1 (Network Manager)"
-       version="1.0.2"
+       version="1.0.3"
        provider-name="cbxbiker61">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
